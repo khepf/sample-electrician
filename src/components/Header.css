@@ -180,6 +180,8 @@
 @media (max-width: 968px) {
   .emergency-contact {
     order: -1;
+    display: none;
+
   }
 
   .emergency-phone {

@@ -30,9 +30,9 @@ img {
   outline-offset: 2px;
 }
 
-/* Smooth scrolling */
+/* Smooth scrolling - disabled for instant page navigation */
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
 }
 
 /* Loading states */
