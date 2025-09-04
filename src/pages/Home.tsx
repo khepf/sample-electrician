@@ -65,7 +65,7 @@ const Home = () => {
               <Link to="/services#emergency" className="service-link">Learn More →</Link>
             </div>
             <div className="service-card card">
-              <div className="service-icon">�</div>
+              <div className="service-icon">🔌</div>
               <h3>Wiring & Outlets</h3>
               <p>Professional electrical wiring and outlet installation for all types of electrical needs.</p>
               <Link to="/services#wiring" className="service-link">Learn More →</Link>

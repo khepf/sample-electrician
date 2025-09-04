@@ -29,11 +29,11 @@ const Services = () => {
         'Storm damage repairs',
         'Electrical safety inspections'
       ],
-      pricing: 'Emergency service fees apply after hours'
+      pricing: 'Emergency service fees apply'
     },
     {
       id: 'wiring',
-      icon: '�',
+      icon: '🔌',
       title: 'Electrical Wiring & Outlets',
       description: 'Professional electrical wiring services for all types of installations.',
       features: [
@@ -63,7 +63,7 @@ const Services = () => {
     },
     {
       id: 'lighting',
-      icon: '�',
+      icon: '💡',
       title: 'Lighting Installation',
       description: 'Expert lighting installation and repair for indoor and outdoor applications.',
       features: [
@@ -78,7 +78,7 @@ const Services = () => {
     },
     {
       id: 'ceiling-fans',
-      icon: '🌪️',
+      icon: '𖣘',
       title: 'Ceiling Fan Installation',
       description: 'Professional ceiling fan installation and repair services.',
       features: [
